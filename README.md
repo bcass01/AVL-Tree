@@ -1,4 +1,4 @@
-# AVL-Tree
+# AVL Tree
 I built an AVLTreeMap class, which uses an AVL tree to map one set of integers (values) to another set of integers (keys). This class includes several methods, all of which run in O(log N) time:
 1. ```void clear()``` - Clears all values from the tree, leaving it empty.
 2. ```int size()``` - Returns the number of nodes in the tree.
