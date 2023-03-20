@@ -9,7 +9,6 @@ public class AVLTreeMap implements Map {
         TreeNode left = null; // DO NOT RENAME THIS
         TreeNode right = null; // DO NOT RENAME THIS
         Integer height = 0;
-        // FIXME additional member variables, if necessary
 
         TreeNode(Integer key, Integer value, Integer height) {
             this.key = key;
@@ -17,10 +16,7 @@ public class AVLTreeMap implements Map {
             this.left = null;
             this.right = null;
             this.height = 0;
-            // FIXME initialize additional member variables, if necessary
         }
-
-        // FIXME additional member functions, if necessary
     }
 
     private int size = 0;
