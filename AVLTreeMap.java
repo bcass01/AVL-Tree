@@ -180,10 +180,6 @@ public class AVLTreeMap implements Map {
 
     }
 
-    public void remove(Integer key) {
-        return; // FIXME optional
-    }
-
     // DO NOT CHANGE ANYTHING BELOW THIS LINE
 
     /**
